@@ -1,0 +1,7 @@
+{
+  "prompt": "Documentary photography style image of a wide old graveyard filled with many small child-sized graves and tiny headstones on the left side of the frame, gradually transitioning into an empty clean open field on the right side with no graves at all. The graves on the left are dense and crowded, symbolizing high child mortality in the past, while the right side is calm and empty, symbolizing survival in the present. The transition is smooth from left (crowded) to right (empty). Overcast sky, soft natural lighting. Mood: quiet, emotional, reflective, sense of loss turning into hope. Color palette: muted grey, soft green, desaturated tones. Wide angle composition, horizon visible. No text, no labels, no numbers, no charts, no symbols.",
+  "model": "DALL-E 3 via ChatGPT",
+  "dataset_name": "Child Mortality - Our World in Data",
+  "dataset_url": "https://ourworldindata.org/child-mortality",
+  "insight": "In the 1800s, nearly half of all children died before age 5 — today, most survive."
+}
